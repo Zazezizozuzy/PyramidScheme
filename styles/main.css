@@ -28,9 +28,8 @@ nav a {
 ul li a:hover,
 ul li a.active{
     color: #f69d32;
-
     background:#681f57;
-    border-right: 2px solid #10558d
+    border-left: 5px solid #f69d32
 }
 
 .content {
@@ -63,3 +62,11 @@ ul li a.active{
     text-align: left;
 }
 
+.content table, th, td {
+  border: 2px solid #222;
+  border-collapse: collapse;
+  padding: 18px 10px 10px 10px;
+}
+.content th, td {
+  background-color: #fff;
+}
