@@ -37,7 +37,7 @@ ul li a.active{
 }
 
 .content {
-    margin-left: 17%;
+    margin-left: 18%;
     position: absolute;
     width: 80%;
     font-family: Roboto,Helvetica,sans-serif;
@@ -55,7 +55,7 @@ ul li a.active{
 }
 
 .content th {
-    width: 15%;
+    width: 18%;
 }
 
 .content tr {
